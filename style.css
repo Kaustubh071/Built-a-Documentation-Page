@@ -1,0 +1,9 @@
+#navbar{
+  width: 45%;
+}
+
+@media(max-width: 767px){
+  body{
+    background-color: Orange;
+  }
+}
